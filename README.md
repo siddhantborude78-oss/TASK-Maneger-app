@@ -16,9 +16,10 @@ Purpose:
 This project was created as a practice project to improve programming skills and understand how real-world applications manage user tasks.
 
 Future Improvements:
-- add daily taak
-- update task
-- delete task
+- Add Graphical User Interface (GUI)
+- Integrate database for better data storage
+- Add user authentication system
+- Improve overall design and user experience
   
 
 This project is beginner-friendly and useful for understanding basic application logic.
